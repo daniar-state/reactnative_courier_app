@@ -83,6 +83,9 @@ web_modules/
 .cache
 .parcel-cache
 
+.bundle
+.android/app/build/*
+
 # Next.js build output
 .next
 out
